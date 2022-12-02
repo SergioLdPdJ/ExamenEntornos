@@ -1,0 +1,2 @@
+Una de las características y ventajas de trabajar con git es que a pesar de que hayan varias personas en un mismo proyecto cada uno puede ir trabajando por su cuenta
+y al acabar fusionar su parte con el proyecto principal de forma que será efectiva y comoda, eso si, hay que tener en cuenta no pisar datos de un compañero.
